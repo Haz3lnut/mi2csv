@@ -10,7 +10,9 @@ mi2csv "/path/to/media" "mycsvfile.csv"
 Will scan provided media path for all video and audio files and create the given CSV file with following layout, suitable for importing into your favorite spreadsheet application.
 
 Sample output:
+
 filename, ext, size, duration, width, height, fps, aspect
+
 "/plex/movies/Catwoman/Catwoman.avi", avi, 1466207024, 01:39:57.680, 720, 304, 25, 2.35:1
 
 Modifications to these fields should be fairly simple.
