@@ -11,8 +11,8 @@ Will scan provided media path for all video files and create the given CSV file 
 
 Sample output:
 
-filename, ext, size, duration, width, height, fps, aspect
-
-"/plex/movies/Catwoman/Catwoman.avi", avi, 1466207024, 01:39:57.680, 720, 304, 25, 2.35:1
+  filename, ext, size, duration, width, height, fps, aspect
+  
+  "/plex/movies/Catwoman/Catwoman.avi", avi, 1466207024, 01:39:57.680, 720, 304, 25, 2.35:1
 
 Modifications to these fields should be fairly simple.
