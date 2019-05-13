@@ -3,7 +3,7 @@
 FormatFile="/tmp/inform.txt"
 FolderRoot="$1"
 CSVFile="$2"
-ExtList=".*\.\(mp4\|m4v\|m4p\|mkv\|avi\|asf\|wmv\|flv\|vob\|ts\|mpg\|mpeg\|mts\|m2ts\|webm\|ogv\|mov\|3gp\|3g2\|mp3\|m4a\|ogg\|flac\)"
+ExtList=".*\.\(mp4\|m4v\|m4p\|mkv\|avi\|asf\|wmv\|flv\|vob\|ts\|mpg\|mpeg\|mts\|m2ts\|webm\|ogv\|mov\|3gp\|3g2\)"
 
 function cleanup () 
 {
