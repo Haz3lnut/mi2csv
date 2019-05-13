@@ -7,7 +7,7 @@ Usage:
 
 mi2csv "/path/to/media" "mycsvfile.csv"
 
-Will scan provided media path for all video and audio files and create the given CSV file with following layout, suitable for importing into your favorite spreadsheet application.
+Will scan provided media path for all video files and create the given CSV file with following layout, suitable for importing into your favorite spreadsheet application.
 
 Sample output:
 
